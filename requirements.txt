@@ -1,0 +1,13 @@
+matplotlib==3.10.1
+mediapipe==0.10.21
+numpy==1.26.4
+opencv_python==4.10.0.84
+pandas==2.2.3
+plotly==5.9.0
+scikit_learn==1.6.1
+scipy==1.15.2
+tensorflow==2.18.0
+torch==2.5.1
+tqdm==4.67.1
+transformers==4.45.2
+umap==0.1.1
