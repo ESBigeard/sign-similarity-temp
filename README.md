@@ -1,4 +1,4 @@
-**This is a TEMPORARY repository. The name/adress is subject to change in the incoming weeks.**
+**This is a TEMPORARY repository. It will be updated in the following weeks to redirect to the permanent repository**
 
 # Repository Overview
 
